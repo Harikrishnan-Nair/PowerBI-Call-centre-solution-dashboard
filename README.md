@@ -23,3 +23,11 @@ The dashboards were created based on KPIs :
 4. Average speed of answer
 5. Agent's performance quadrant
 6. Miscellaneous
+
+
+Key Insights:
+1.	Among calls from different categories like Contract, Payment, Technical, Admin and Streaming, Streaming has the highest median satisfaction rating for resolved calls
+2.	Customer Agent Martha has the highest average satisfaction rating(3.47) and agent Joe has the lowest rating(3.33). However it is also noticed that the average rating of all agents is 3.4
+3.	Highest call volume was witnessed on 11th of the Month(230 calls – 186 resolved and 44 not resolved)
+4.	Approx. 65% of calls have rating 3 or more 
+5.	There is scope for improvement in rating for tickets related to Contract Payment and Technical sections
