@@ -23,6 +23,7 @@ The dashboards were created based on KPIs :
 4. Average speed of answer
 5. Agent's performance quadrant
 6. Miscellaneous
+![Call Center Solution](https://github.com/Harikrishnan-Nair/PowerBI-Call-centre-solution-dashboard/assets/95662379/172ecdd1-cbec-406b-b42f-63cc9e5e6519)
 
 
 Key Insights:
